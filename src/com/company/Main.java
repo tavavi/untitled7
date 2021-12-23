@@ -5,14 +5,12 @@ import java.util.Random;
 public class Main {
 
     public static void main(String[] args) {
-
-
         System.out.println(number(26, 11));
         System.out.println(number(45, 23));
         System.out.println(number(27, 13));
         System.out.println(number(34, -10));
         System.out.println(number(89, 4));
-        System.out.println(number(generateRandomAge(), generateRandomAge()));
+        System.out.println(number(generateRandomAge(), generateRandomTemp()));
     }
 
 

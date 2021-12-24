@@ -23,7 +23,6 @@ public class Main {
             return "можно идти гулять";
         } else {
             return "оставайтесь дома";
-
         }
     }
 
